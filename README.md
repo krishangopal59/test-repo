@@ -14,11 +14,11 @@ Step 4: crate database (Test)
 Step 5: Update .env file
 
 
-    DB_DATABASE= 
+    DB_DATABASE=**** 
 
-    DB_USERNAME=
+    DB_USERNAME=****
 
-    DB_PASSWORD=*
+    DB_PASSWORD=****
 
 Step 6: Ran migration file 
     (a) php artisan migrate
